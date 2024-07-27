@@ -15,7 +15,7 @@
 <br>
 
 - 🔭 Atualmente estou buscando ingressar no mercado de front-end
-- 🌱 Estudanto TypeScript
+- 🌱 Estudando React e Next
 - 🤔 Estou buscando por pessoas para estudar junto comigo ^-^
 - 📫 Contate-me por email: dev.lxcier@gmail.com
 - 😄 Pronomes: Ele/Dele
